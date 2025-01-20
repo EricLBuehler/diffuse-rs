@@ -1,6 +1,5 @@
 #include <cub/block/block_load.cuh>
 #include <cub/block/block_store.cuh>
-#include <cub/cub.cuh>
 #include <float.h>
 
 typedef enum DataType_t
