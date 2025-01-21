@@ -8,7 +8,8 @@ Blazingly fast inference of diffusion models.
 </h3>
 
 <p align="center">
-| <a href="https://ericlbuehler.github.io/diffusion-rs/diffusion_rs_core/"><b>Latest Rust Documentation</b></a> | <a href="https://ericlbuehler.github.io/diffusion-rs/pyo3/diffusion_rs.html"><b>Latest Python Documentation</b></a> | <a href="https://discord.gg/DRcvs6z5vu"><b>Discord</b></a> |
+| <a href="https://ericlbuehler.github.io/diffusion-rs/diffusion_rs_core/"><b>Latest Rust Documentation</b></a> | <a href="https://ericlbuehler.github.io/diffusion-rs/pyo3/diffusion_rs.html"><b>Latest Python Documentation</b></a> | <a href="https://discord.gg/DRcvs6z5vu"><b>Discord</b></a> |<a
+href="README.md"><b>Chinese Doc</b></a> |
 </p>
 
 
